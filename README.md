@@ -4,6 +4,7 @@ Fetching data for multiple channels and analyzing Free Code Camp Youtube channel
 
 Data analysis is performed using Python, Pandas, matplotlib and seaborn on Jupyter Notebook.
 
+Process included data exploration, data cleaning, finding null values, working with data types, formatting date time stamp and duration. Adding new columns, sorting values etc. 
 
 Following fields are fetched:
 
