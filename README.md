@@ -1,7 +1,8 @@
 ### Youtube API Data Analysis
 
+Fetching data for multiple channels and analyzing Free Code Camp Youtube channel through Youtube API.
+Data analysis is performed using Python, Pandas, matplotlib and seaborn on Jupyter Notebook.
 
-Fetching data for multiple channels and analyzing Free Code Camp Youtube channel through Youtube API
 
 Following fields are fetched:
 
@@ -27,9 +28,10 @@ Analysis
     - Liked Percentage ratio with respect to views
     - Plotting different charts
     - Creating a WordCloud
+    - finding relationships among views, likes and comments count
 	
 	
-Charts 
+Variuos charts were analyzed using matplotlib and seaborn. 
 
 
 	- Most Viewd Videos
